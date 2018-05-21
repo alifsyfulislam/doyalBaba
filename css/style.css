@@ -1,0 +1,73 @@
+.bg-manual{
+    background-color: #0c5460;
+}
+
+.ptb-0{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.logo-image{
+    height: 66px;
+    width: 100px;
+}
+
+.img-slider{
+    height: 100%;
+    width: 100%;
+}
+
+.content-header{
+    padding: 5% 10%;
+    color: darkslategrey;
+}
+
+.content-header:hover{
+    color: #fd7e14;
+}
+
+
+
+#bangla{
+    background-color: whitesmoke;
+}
+
+.footer-height{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.fab-color{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 450px){
+    .col-xs-1{ width: 8.33%;}
+    .col-xs-2{ width: 16.66%}
+    .col-xs-3{ width: 25%;}
+    .col-xs-4{ width: 33.33%}
+    .col-xs-5{ width: 41.66%}
+    .col-xs-6{ width: 50%;}
+    .col-xs-7{ width: 58.33%}
+    .col-xs-8{ width: 66.66%}
+    .col-xs-9{ width: 75%}
+    .col-xs-10{ width: 83.33%}
+    .col-xs-11{ width: 91.66%}
+    .col-xs-12{ width: 100%}
+}
+
+
